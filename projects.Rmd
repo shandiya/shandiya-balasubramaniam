@@ -50,7 +50,7 @@ knitr::include_graphics("images/magpie.png")
 knitr::include_graphics("images/tw_1.png")
 ```
 
-Sometimes I make art in R. These are often posted on [Twitter](https://twitter.com/ShandiyaB) and tagged `#rtistry`. If you're interested in the code that creates these images, it can be found on [GitHub](https://github.com/shandiya) in a few different repositories. All images may also be viewed in the Gallery page of this site. 
+Sometimes I make art in R. These are often posted on [Twitter](https://twitter.com/ShandiyaB) and tagged `#rtistry`. If you're interested in the code that creates these images, it can be found on [GitHub](https://github.com/shandiya) in a few different repositories. 
 
 :::
 
