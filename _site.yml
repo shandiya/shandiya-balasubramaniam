@@ -1,0 +1,20 @@
+name: "website"
+title: "shandiya balasubramaniam"
+theme: theme.css
+output_dir: "_site"
+navbar:
+  logo:
+    image: images/logo.png
+  right:
+    - text: "about"
+      href: index.html
+    - text: "projects"
+      href: projects.html
+    - text: "gallery"
+      href: gallery.html
+    - text: "publications"
+      href: publications.html
+    - text: "contact"
+      href: contact.html
+output: distill::distill_article
+

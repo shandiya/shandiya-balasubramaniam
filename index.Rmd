@@ -1,0 +1,21 @@
+---
+title: "Shandiya Balasubramaniam"
+image: "images/shandiya.png"
+links:
+  - label: '`r fontawesome::fa("github")`'
+    url: "https://github.com/shandiya"
+  - label: '`r fontawesome::fa("twitter")`'
+    url: "https://twitter.com/ShandiyaB"
+  - label: '`r fontawesome::fa("linkedin")`'
+    url: "https://linkedin.com/in/shandiya"
+site: distill::distill_website
+output:
+  postcards::jolla
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+I’m a data scientist and evolutionary ecologist based in Melbourne, Australia. I'm currently working as a geospatial data analyst in the environmental space. My ecological research integrates molecular biology, conservation management, and wildlife disease ecology to understand adaptive responses to environmental variation in threatened species. When I'm not coding for work or looking at birds, I enjoy making art in R. 
