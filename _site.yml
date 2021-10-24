@@ -10,8 +10,6 @@ navbar:
       href: index.html
     - text: "projects"
       href: projects.html
-    - text: "gallery"
-      href: gallery.html
     - text: "publications"
       href: publications.html
     - text: "contact"
