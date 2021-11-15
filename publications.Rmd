@@ -9,7 +9,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ### Peer-reviewed publications
 
-Boysen K, Perkins SL, Hunjan S, Oliver P, Gardner M, **Balasubramaniam S**, J Melville. Diversity and phylogenetic relationships of haemosporidian and hemogregarine parasites in Australian lizards. *In review*
+Boysen K, Perkins SL, Hunjan S, Oliver P, Gardner M, **Balasubramaniam S**, J Melville. Diversity and phylogenetic relationships of haemosporidian and hemogregarine parasites in Australian lizards. *Molecular Phylogenetics and Evolution, in press*  
 
 **Balasubramaniam S**, Mulder RA, Sunnucks P, Pavlova A, Melville J (2017) MHC class II β exon 2 variation in pardalotes (Pardalotidae) is shaped by selection, recombination and gene conversion. *Immunogenetics* 69: 101-111.
 
