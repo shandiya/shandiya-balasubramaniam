@@ -18,4 +18,4 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
-I’m a data scientist and evolutionary ecologist based in Melbourne, Australia. I'm currently working as a geospatial data analyst in the environmental space. My ecological research integrates molecular biology, conservation management, and wildlife disease ecology to understand adaptive responses to environmental variation in threatened species. When I'm not coding for work or looking at birds, I enjoy making art in R. 
+I'm an evolutionary biologist based in Melbourne, Australia. My research integrates molecular ecology, conservation management, and wildlife disease ecology to understand adaptive responses to environmental variation in threatened species. I currently work as a data analyst at the Atlas of Living Australia, where my work focuses on streamlining reproducible pathways for researchers to access and analyse open data. When I'm not coding for work or looking at birds, I enjoy making art in R. 
