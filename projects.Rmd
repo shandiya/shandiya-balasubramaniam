@@ -12,15 +12,14 @@ knitr::opts_chunk$set(echo = TRUE)
 ```{css, echo=FALSE}
 
 h1, h3, p {
-  text-align: right;
+  text-align: left;
 }
 
 ```
 
-
 ::: {.floating}
 
-```{r echo = FALSE, out.width='30%', out.extra='style="float:left; padding:10px"'}
+```{r echo = FALSE, out.width='30%', out.extra='style="float:right; padding:10px"'}
 knitr::include_graphics("images/mp_logo.png")
 ```
 
@@ -40,8 +39,8 @@ about this project, please get in contact at MankyParrot@gmail.com.
 
 ::: {.floating}
 
-```{r echo = FALSE, out.width='35%', out.extra='style="float:left; padding:10px"'}
-knitr::include_graphics("images/magpie.png")
+```{r echo = FALSE, out.width='30%', out.extra='style="float:right; padding:10px"'}
+knitr::include_graphics("images/feathers.png")
 ```
 
 ### [feathers](https://github.com/shandiya/feathers)
@@ -55,7 +54,7 @@ knitr::include_graphics("images/magpie.png")
 
 ::: {.floating}
 
-```{r echo = FALSE, out.width='30%', out.extra='style="float:left; padding:10px"'}
+```{r echo = FALSE, out.width='30%', out.extra='style="float:right; padding:10px"'}
 knitr::include_graphics("images/tw_1.png")
 ```
 
@@ -70,7 +69,7 @@ Sometimes I make art in R, and sometimes I post it on [Twitter](https://twitter.
 
 ::: {.floating}
 
-```{r echo = FALSE, out.width='30%', out.extra='style="float:left; padding:10px"'}
+```{r echo = FALSE, out.width='30%', out.extra='style="float:right; padding:10px"'}
 knitr::include_graphics("images/30daymap.png")
 ```
  
